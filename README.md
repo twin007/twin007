@@ -15,7 +15,7 @@
 
 ### 🛠 Tech Playground:
 `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn`  
-`SQL` • `Power BI` • `MongoDB` • `React (a bit)` • `Django`  
+`SQL` • `Tableau` • `MySQL` • `HTML` • `Django`  
 
 ---
 
@@ -26,8 +26,11 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF69B4&center=true&width=435&lines=Data+is+the+new+magic.;AI+is+my+wand.;Keep+coding+pretty+things+💻" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Data_is_the_new_magic-ff69b4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_is_my_wand-ffb6c1?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coding_pretty_things💻-ffc0cb?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=twin007&show_icons=true&theme=calm&hide_border=true" />
